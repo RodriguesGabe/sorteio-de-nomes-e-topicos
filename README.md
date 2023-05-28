@@ -2,6 +2,11 @@
 
 Este é um programa simples desenvolvido em HTML, CSS e JavaScript que permite ao usuário adicionar uma lista de nomes e definir a quantidade de números que deseja sortear para cada pessoa. Ao clicar no botão "sorteio", o programa gera aleatoriamente os números para cada pessoa e exibe uma lista com os nomes e os números sorteados.
 
+## Aparência
+<div align="center"> 
+  <img src="https://github.com/RodriguesGabe/sorteio-de-nomes-e-topicos/assets/105085377/63ca6a95-fa42-4533-a2fa-0ebddcac4216" width="750px"/>
+</div> 
+
 ## Funcionalidades
 
 - Adicionar nomes: O usuário pode digitar nomes na caixa de texto e clicar no botão "Adicionar" para incluí-los na lista de participantes.
